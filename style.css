@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f5;
+    color: #222;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #1f7a45;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+.product {
+    background: white;
+    max-width: 350px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #1f7a45;
+}
+
+button {
+    background-color: #25D366;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    opacity: 0.85;
+}
